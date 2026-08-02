@@ -1,6 +1,5 @@
 # Deploy to GitHub Pages
-
-将 Qoder 零基础实战教程构建为静态网站并部署到 GitHub Pages。
+# 将 Qoder 零基础实战教程构建为静态网站并部署到 GitHub Pages。
 
 on:
   push:
