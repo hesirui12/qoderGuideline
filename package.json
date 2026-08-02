@@ -1,0 +1,15 @@
+{
+  "name": "qoder-guide-site",
+  "version": "1.0.0",
+  "description": "Qoder 零基础实战教程 —— 工业直角情绪几何风格静态网站（Bun）",
+  "type": "module",
+  "scripts": {
+    "build": "bun run src/build.ts",
+    "dev": "bun run src/build.ts && bun run src/serve.ts",
+    "start": "bun run src/serve.ts",
+    "preview": "bun run src/build.ts && bun run src/serve.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  }
+}
